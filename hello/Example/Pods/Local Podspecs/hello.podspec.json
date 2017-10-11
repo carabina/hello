@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "summary": "A short description of hello.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xuxueyong/hello",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuxueyong": "xuxy@vodjk.com"
+  },
+  "source": {
+    "git": "https://github.com/xuxueyong/hello.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "hello/Classes/**/*"
+}
