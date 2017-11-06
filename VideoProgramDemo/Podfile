@@ -1,0 +1,9 @@
+source 'https://github.com/xuxueyong/YYLib.git'
+platform :ios, '8.0'
+
+target 'VideoProgramDemo' do
+
+pod 'hello', '0.1.0'
+pod 'Alamofire'
+
+end
